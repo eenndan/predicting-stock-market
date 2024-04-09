@@ -81,7 +81,7 @@ del average_values
 
 
     
-![png](output_3_0.png)
+![png](Project_files/output_3_0.png)
     
 
 
@@ -416,7 +416,7 @@ plt.show()
 
 
     
-![png](output_8_0.png)
+![png](Project_files/output_8_0.png)
     
 
 
