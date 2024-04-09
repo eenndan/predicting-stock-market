@@ -196,19 +196,6 @@ results_df
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -484,10 +471,6 @@ disp.plot()
 
 ```
 
-
-
-
-    <sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay at 0x7fb2930be320>
 
 
 
@@ -877,8 +860,6 @@ disp.plot()
 
 
 
-
-    <sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay at 0x7fb292910be0>
 
 
 
@@ -1793,8 +1774,6 @@ disp.plot()
 
 
 
-
-    <sklearn.metrics._plot.confusion_matrix.ConfusionMatrixDisplay at 0x7fb247aeceb0>
 
 
 
